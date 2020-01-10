@@ -1,7 +1,7 @@
-# dhminor 2020
-DH minor @ HSE humanities faculty
-Year 2020
+# Курс "Цифровые методы в гуманитарных науках"
+
+Часть 1, январь-март 2020
 
 ## Введение
-### 11 января
-[Презентация](https://danilsko.github.io/slides/dhminor/intro.html)
+##### 11 января
+[Вводная презентация](https://danilsko.github.io/slides/dhminor/intro.html)
