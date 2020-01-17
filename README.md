@@ -9,8 +9,8 @@
 ## Культуромика и Cultural Analytics: исследования культуры в эпоху Big Data 
 ##### 18 января
 Доклады: 
-* Lev Manovich. [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf). (Мария Долгодворова)
-* Ted Underwood. [How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/). (Михаил Сонькин)
+* Lev Manovich. [The Science of Culture? Social Computing, Digital Humanities and Cultural Analytics](http://manovich.net/content/04-projects/088-cultural-analytics-social-computing/cultural_analytics_article_final.pdf). — Мария Долгодворова.
+* Ted Underwood. [How not to do things with words](https://tedunderwood.com/2012/08/25/how-not-to-do-things-with-words/). — Михаил Сонькин.
 
 К парам можно почитать: 
 * Michel J.-B. et al. Quantitative Analysis of Culture Using Millions of Digitized Books // Science. 2011. Vol. 331, № 6014. P. 176–182.
@@ -28,8 +28,8 @@
 * Franco Moretti. Conjectures on World Literature. [оригинал](https://drive.google.com/file/d/1CH9E1cyMIA7gfMQjoumUmHKhJIDpnLDN/view?usp=sharing) [русский перевод](https://drive.google.com/open?id=1Eyd_z_SXXFuDzFU4HLHoBjsvH9fblU1B) (не распространяйте файлы, пожайлуйста).  — 2 человека. 
 
 Доклады на семинарах: 
-* Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/)(по одному человеку из каждой группы - в 12:10 и в 13:40)
-* Ryan Heuser, Long Le-Khac. [A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf) (по два человека из каждой группы - в 12:10 и в 13:40)
+* Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) — по одному человеку из каждой группы - в 12:10 и в 13:40.
+* Ryan Heuser, Long Le-Khac. [A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf) — по два человека из каждой группы - в 12:10 и в 13:40.
 
 ## Количественные методы определения авторства и стилометрия: почему это работает и к чему можно применить (лекция, начало практики в stylo)
 ##### 1 февраля
