@@ -40,11 +40,14 @@
 
 Доклады на лекции:
 
-* Franco Moretti. Conjectures on World Literature. [оригинал](https://drive.google.com/file/d/1CH9E1cyMIA7gfMQjoumUmHKhJIDpnLDN/view?usp=sharing) [русский перевод](https://drive.google.com/open?id=1Eyd_z_SXXFuDzFU4HLHoBjsvH9fblU1B) (не распространяйте файлы, пожайлуйста).  — 2 человека.
+* Franco Moretti. Conjectures on World Literature.
+  * [оригинал](https://drive.google.com/file/d/1CH9E1cyMIA7gfMQjoumUmHKhJIDpnLDN/view?usp=sharing)
+  * [русский перевод](https://drive.google.com/open?id=1Eyd_z_SXXFuDzFU4HLHoBjsvH9fblU1B) (не распространяйте файлы, пожайлуйста).
+— Ира Дмитриевская.
 
 Доклады на семинарах:
-* Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) — по одному человеку из каждой группы - в 12:10 и в 13:40.
-* Ryan Heuser, Long Le-Khac. [A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf) — по два человека из каждой группы - в 12:10 и в 13:40.
+* Ted Underwood. [Seven ways humanists are using computers to understand text.](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/) — Таня Казакова в 12:10 и Кирилл Ко́нча в 13:40.
+* Ryan Heuser, Long Le-Khac. [A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf) — Смирнова + Долгодворова в 12:10 и Злата Шкутько + Григорий Кузнецов в 13:40. 
 
 ## Количественные методы определения авторства и стилометрия: почему это работает и к чему можно применить (лекция, начало практики в stylo)
 ##### 1 февраля
