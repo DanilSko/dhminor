@@ -34,7 +34,7 @@
 
 ### Copy->Paste
 
-Откройте [главную страницу Voyant Tools](https://voyant-tools.org/) и попробуйте туда что-нибудь вставить, любой текст. Например:
+👩‍💻 Откройте [главную страницу Voyant Tools](https://voyant-tools.org/) и попробуйте туда что-нибудь вставить, любой текст. Например:
 
 <i>
 Distant reading is an approach in literary studies that applies computational methods to literary data, usually derived from large digital libraries, for the purposes of literary history and theory. Other terms used to refer to the same or similar approach include macroanalysis, cultural analytics, computational formalism, computational literary studies, quantitative literary studies, and algorithmic literary criticism.
@@ -48,11 +48,12 @@ Despite the consensus about the origins of distant reading at the turn of the tw
 This variety in the stated definitions and aims of distant reading is characteristic of its development since the turn of the twenty-first century, where is has come to encompass a variety of different methods and approaches, rather than representing a single or unified method of literary study.</i>
 
 ### загрузка HTML-страница
-Еще Voyant умеет принимать URL -- и анализировать текст HTML-страницы. Попробуйте вставить туда URL. Например: https://en.wikipedia.org/wiki/Distant_reading
+
+👩‍💻 Еще Voyant умеет принимать URL -- и анализировать текст HTML-страницы. Попробуйте вставить туда URL. Например: https://en.wikipedia.org/wiki/Distant_reading
 
 ### Загрузка текстового файла
 
-Ну а теперь попробуйте загрузить целый текстовый файл (например, [этот](orwell.zip)</a>).
+👩‍💻 Ну а теперь попробуйте загрузить целый текстовый файл (например, [этот](orwell.zip) (надо скачать по ссылке и распаковать).
 
 ### Загрузка корпуса текстов в Voyant
 
@@ -66,6 +67,8 @@ This variety in the stated definitions and aims of distant reading is characteri
 * [Главная страница Интерфакса за 3 месяца: январь-март 2014](https://voyant-tools.org/?corpus=8943e7b961f87daf226162f5a3f5e8da).
 * ["Война и мир" по томам](https://voyant-tools.org/?corpus=d6d851113e8787d79055aa1b434a37bd)
 * [Преступление и наказание](https://voyant-tools.org/?corpus=7a14151684244d604e29fed45c15ddee)
+
+👩‍💻 Можете попробовать загрузить свой корпус. Например, [такой](asoiaf.zip)
 
 ### Полезный факт: Voyant Tools можно запускать и локально
 
@@ -104,6 +107,7 @@ NB: Качать Voyant Server сейчас через вышкинскую се
 
 *Корабль? Машина? Это уже чуть-чуть интереснее!*
 
+👩‍💻 Попробуйте загрузить [стоп-слова](stop_ru.txt) и увидеть изменения.
 
 ## Графики 📈
 
@@ -137,8 +141,9 @@ TermsBerry предоставляет такую же визуализацию �
 Также умеет выделять "наиболее специфические" слова данного корпуса.
 
 ## Тематическое моделирование
+Тематическое моделирование — отдельная большая тема. Я показывал пример во [вводной презентации](https://danilsko.github.io/slides/dhminor/intro.html#/29). Подробнее сейчас не успеть. Есть туториалы на "Системном Блоке": [сложный в MALLET](https://sysblok.ru/nlp/ishhem-smysly-kak-sdelat-tematicheskoe-modelirovanie-korpusa-tekstov/), [попроще в TopicModeling Tool](https://sysblok.ru/courses/kak-delat-tematicheskoe-modelirovanie-bez-boli-i-komandnoj-stroki/)
 
-Воянт умеет топик моделинг, можно посмотреть на примере ["Войны и мира"](https://voyant-tools.org/?corpus=d6d851113e8787d79055aa1b434a37bd)
+Воянт тоже умеет в тематическое моделирование, можно посмотреть на примере ["Войны и мира"](https://voyant-tools.org/?corpus=d6d851113e8787d79055aa1b434a37bd)
 
 ## AntConc
 
