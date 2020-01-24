@@ -1,5 +1,5 @@
-# Distant Reading, практика, часть I
-Сегодня мы начнем говорить о том, какими методами и инструментами можно делать Distant Reading различных текстов.  
+# Distant Reading, практика и демо
+Сегодня мы немножко поговорим о том, какими методами и инструментами можно делать Distant Reading текстов.  
 
 ## Disclaimer
 Результаты количественного анализа больших объемов текста **не всегда хорошо интерпретируемы**. Это может быть связано с:
@@ -30,12 +30,37 @@
 
 Вот [Voyant Tools](https://voyant-tools.org/) — популярный инструмент для входа в Digital Humanities. Простой, но имеет ограничения.
 
-В Voyant Tools можно запихнуть ваш собственный корпус. Конечно, это не может быть корпус размером с НКРЯ или больше. Но небольшой корпус на пару сотен мегабайт влезть может, а это для филологии уже практически Бигдата.
+### Загрузка текста Voyant
 
-Например вот тут **[корпус русской фантастики](https://voyant-tools.org/?corpus=ad00c40ec4549bc30c185cf7f65c9318)** (193 произведения, 128 мб текста, 10,7 млн словоупотреблений), собранный нашими магистрами и загруженный в Voyant.
+### Copy->Paste
+
+Откройте [главную страницу Voyant Tools](https://voyant-tools.org/) и попробуйте туда что-нибудь вставить, любой текст. Например:
+
+*Distant reading is an approach in literary studies that applies computational methods to literary data, usually derived from large digital libraries, for the purposes of literary history and theory. Other terms used to refer to the same or similar approach include macroanalysis, cultural analytics, computational formalism, computational literary studies, quantitative literary studies, and algorithmic literary criticism.
+
+The term "distant reading" is generally attributed to Franco Moretti and his 2000 article, Conjectures on World Literature. In the article, Moretti proposed a mode of reading which included works outside of established literary canons, which he variously termed "the great unread" and, elsewhere, "the Slaughterhouse of Literature". The innovation it proposed, as far as literary studies was concerned, was that the method employed samples, statistics, paratexts, and other features not often considered within the ambit of literary analysis. Moretti also established a direct opposition to the theory and methods of close reading: "One thing for sure: it cannot mean the very close reading of very few texts—secularized theology, really ('canon'!)—that has radiated from the cheerful town of New Haven over the whole field of literary studies".
+
+However, Moretti initially conceived distant reading for analysis of secondary literature as a roundabout way of getting to know more about primary literature: "[literary history] will become 'second-hand': a patchwork of other people's research, without a single direct textual reading". Only later did the term distant reading (via Moretti and other scholars) come to become primarily identified with computational analysis of primary literary sources.
+
+Despite the consensus about the origins of distant reading at the turn of the twenty-first century, Ted Underwood has traced a longer genealogy of the method, arguing for its elision in current discourse about distant reading. He writes that "distant reading has a largely distinct genealogy stretching back many decades before the advent of the internet – a genealogy that is not for the most part centrally concerned with computers". Underwood emphasises a social-scientific dimension in this prehistory of distant reading, referring to particular examples in the work of Raymond Williams (from the 1960s) and Janice Radway (from the 1980s).
+
+This variety in the stated definitions and aims of distant reading is characteristic of its development since the turn of the twenty-first century, where is has come to encompass a variety of different methods and approaches, rather than representing a single or unified method of literary study.*
+
+### загрузка HTML-страница
+Еще Voyant умеет принимать URL -- и анализировать текст HTML-страницы. Попробуйте вставить туда URL. Например: https://en.wikipedia.org/wiki/Distant_reading
+
+### Загрузка текстового файла
+
+Ну а теперь попробуйте загрузить целый текстовый файл (например, [этот](orwell_why_i_write.txt) ). 
+
+### Загрузка корпуса текстов в Voyant
+
+В Voyant Tools можно запихнуть и целый корпус, чтобы потом поисследовать. Для этого просто загружаете через тот же Upload несколько файлов. Конечно, это не может быть корпус размером с НКРЯ или больше. Но небольшой корпус на пару сотен мегабайт влезть может, а это для филологии уже практически Бигдата :)
+
+Например вот тут **[корпус русской фантастики](https://voyant-tools.org/?corpus=ad00c40ec4549bc30c185cf7f65c9318)** (193 произведения, 128 мб текста, 10,7 млн словоупотреблений), собранный нашими магистрами и загруженный мной в Voyant.
 
 
-Вот еще несколько примеров поменьше:
+Вот еще несколько моих примеров поменьше:
 
 * [Главная страница Интерфакса за 3 месяца: январь-март 2014](https://voyant-tools.org/?corpus=8943e7b961f87daf226162f5a3f5e8da).
 * ["Война и мир" по томам](https://voyant-tools.org/?corpus=d6d851113e8787d79055aa1b434a37bd)
@@ -45,12 +70,13 @@
 
 Вам понадобится скачать Voyant Server [отсюда](http://docs.voyant-tools.org/resources/run-your-own/voyant-server/) (тут же есть все инструкции) и еще установить Java. После запуска VoyantServer.jar ваш компьютер запустит локальный сервер, который будет делать то же самое, что и онлайновый Voyant, но прямо на вашем компьютере.
 
-NB: Качать Voyant Server сейчас через вышкинскую сеть не надо, он тяжелый; лучше возьмите у меня дистрибутив на диске/флешке
+NB: Качать Voyant Server сейчас через вышкинскую сеть не надо, он сравнительно тяжелый; лучше возьмите у меня дистрибутив на диске/флешке
 
 ## Частотности слов и конструкций, добавление/редактирование списка стоп-слов
 
-Я уже лемматизировал все загруженные корпуса (подробнее об этом есть ниже). Поэтому вордклауд, который вам по умолчанию выдает Voyant в левом окошке, в нашем случае основан на частотностях лемм ☝️
+Вордклауд по умолчанию в левом верхнем окошке (этот инструмент в Voyant называется Cirrus). Я уже лемматизировал все загруженные корпуса (подробнее об этом есть в питоновской тетрадке [по ссылке](https://github.com/dhhse/dhcourse/blob/master/dr_practice/first_dr_notebook_danya.ipynb)). Поэтому вордклауд, который вам по умолчанию выдает Voyant в левом окошке, в нашем случае основан на частотностях лемм ☝️
 ![Человек](pics/wordcloud.png)
+
 *почти 33 тыс. раз упоминаются люди и человеки в нашем корпусе фантастики!*
 
 
@@ -71,9 +97,10 @@ NB: Качать Voyant Server сейчас через вышкинскую се
 ![пикча](pics/define_options.png)
 ![пикча](pics/new_stoplist.png)
 
-Вот мои [стоп-слова](stop_ru.txt), украденные откуда-то из интернета. После применения стоп-слов получается что-то такое:
+Вот мои [стоп-слова](stop_ru.txt), украденные из интернета. После применения стоп-слов получается что-то такое:
 
 ![пикча](pics/wordcloud_mystop.png)
+
 *Корабль? Машина? Это уже чуть-чуть интереснее!*
 
 
@@ -134,7 +161,7 @@ TermsBerry предоставляет такую же визуализацию �
 
 Ну или найти решение на Stack Overflow (так решаются 95% проблем).
 
-![googling](https://www.designer-daily.com/wp-content/uploads/2017/10/9YSKS0C.jpg)
+![googling](https://www.designer-daily.com/wp-content/uploads/2017/10/9YSKS0C.jpg | width=100)
 
 
 Вот **[тут](https://github.com/dhhse/dhcourse/blob/master/dr_practice/first_dr_notebook_danya.ipynb)** лежит питоновская тетрадка, с которой мы поработаем.
@@ -147,4 +174,4 @@ TermsBerry предоставляет такую же визуализацию �
 
 То посмотреть тетрадку можно [тут](https://nbviewer.jupyter.org/github/dhhse/dhcourse/blob/master/dr_practice/first_dr_notebook_danya.ipynb)
 
-(но для загрузки в Colab ссылка все равно понадобится гитхабная)
+(но для загрузки в Google Colab, если вы решите воспользоваться им, ссылка все равно понадобится гитхабная)
