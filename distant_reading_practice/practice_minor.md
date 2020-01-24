@@ -36,7 +36,7 @@
 
 Откройте [главную страницу Voyant Tools](https://voyant-tools.org/) и попробуйте туда что-нибудь вставить, любой текст. Например:
 
-*Distant reading is an approach in literary studies that applies computational methods to literary data, usually derived from large digital libraries, for the purposes of literary history and theory. Other terms used to refer to the same or similar approach include macroanalysis, cultural analytics, computational formalism, computational literary studies, quantitative literary studies, and algorithmic literary criticism.
+_Distant reading is an approach in literary studies that applies computational methods to literary data, usually derived from large digital libraries, for the purposes of literary history and theory. Other terms used to refer to the same or similar approach include macroanalysis, cultural analytics, computational formalism, computational literary studies, quantitative literary studies, and algorithmic literary criticism.
 
 The term "distant reading" is generally attributed to Franco Moretti and his 2000 article, Conjectures on World Literature. In the article, Moretti proposed a mode of reading which included works outside of established literary canons, which he variously termed "the great unread" and, elsewhere, "the Slaughterhouse of Literature". The innovation it proposed, as far as literary studies was concerned, was that the method employed samples, statistics, paratexts, and other features not often considered within the ambit of literary analysis. Moretti also established a direct opposition to the theory and methods of close reading: "One thing for sure: it cannot mean the very close reading of very few texts—secularized theology, really ('canon'!)—that has radiated from the cheerful town of New Haven over the whole field of literary studies".
 
@@ -44,14 +44,14 @@ However, Moretti initially conceived distant reading for analysis of secondary l
 
 Despite the consensus about the origins of distant reading at the turn of the twenty-first century, Ted Underwood has traced a longer genealogy of the method, arguing for its elision in current discourse about distant reading. He writes that "distant reading has a largely distinct genealogy stretching back many decades before the advent of the internet – a genealogy that is not for the most part centrally concerned with computers". Underwood emphasises a social-scientific dimension in this prehistory of distant reading, referring to particular examples in the work of Raymond Williams (from the 1960s) and Janice Radway (from the 1980s).
 
-This variety in the stated definitions and aims of distant reading is characteristic of its development since the turn of the twenty-first century, where is has come to encompass a variety of different methods and approaches, rather than representing a single or unified method of literary study.*
+This variety in the stated definitions and aims of distant reading is characteristic of its development since the turn of the twenty-first century, where is has come to encompass a variety of different methods and approaches, rather than representing a single or unified method of literary study._
 
 ### загрузка HTML-страница
 Еще Voyant умеет принимать URL -- и анализировать текст HTML-страницы. Попробуйте вставить туда URL. Например: https://en.wikipedia.org/wiki/Distant_reading
 
 ### Загрузка текстового файла
 
-Ну а теперь попробуйте загрузить целый текстовый файл (например, [этот](orwell_why_i_write.txt) ). 
+Ну а теперь попробуйте загрузить целый текстовый файл (например, <a href="https://raw.githubusercontent.com/DanilSko/dhminor/gh-pages/distant_reading_practice/orwell_why_i_write.txt" download>этот</a>).
 
 ### Загрузка корпуса текстов в Voyant
 
