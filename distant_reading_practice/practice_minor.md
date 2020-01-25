@@ -184,7 +184,7 @@ TermsBerry предоставляет такую же визуализацию �
 <img src="https://www.designer-daily.com/wp-content/uploads/2017/10/9YSKS0C.jpg" height="300"> <img src="https://i.pinimg.com/originals/ed/18/58/ed18585ecbc0043a74bb2cb386b397be.jpg" height="300">
 
 
-Вот **[тут](https://github.com/dhhse/dhcourse/blob/master/dr_practice/first_dr_notebook_danya.ipynb)** лежит питоновская тетрадка, с которой мы поработаем.
+Вот **[тут](distant_reading_notebook_for_25.01.ipynb)** лежит питоновская тетрадка, с которой мы поработаем.
 По ссылке должно отображаться что-то такое:
 ![gitrender](pics/gitrender.png)
 А если вдруг вместо этого ГитХаб говорит так:
@@ -192,6 +192,6 @@ TermsBerry предоставляет такую же визуализацию �
 ![gitfail](pics/gitfail.png)
 * (в последнее время на ГитХабе иногда что-то ломается с рендерингом ipynb) *
 
-То посмотреть тетрадку можно [тут](https://nbviewer.jupyter.org/github/dhhse/dhcourse/blob/master/dr_practice/first_dr_notebook_danya.ipynb)
+То посмотреть тетрадку можно [тут](https://nbviewer.jupyter.org/github/DanilSko/dhminor/blob/gh-pages/distant_reading_practice/distant_reading_notebook_for_25.01.ipynb)
 
 (но для загрузки в Google Colab, если вы решите воспользоваться им, ссылка все равно понадобится гитхабная)

@@ -38,6 +38,10 @@
 ## Distant Reading ("Дальнее чтение") и корпусные методы в филологии
 ##### 25 января
 
+[Презентация Франка Фишера](https://lehkost.github.io/slides/2020-01-25-dh-lecture/index.html)
+
+[Практика на семинаре](https://github.com/DanilSko/dhminor/blob/gh-pages/distant_reading_practice/practice_minor.md)
+
 Доклады на лекции:
 
 * Franco Moretti. Conjectures on World Literature — Ирина Дмитриевская.
