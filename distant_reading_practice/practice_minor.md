@@ -164,6 +164,8 @@ TermsBerry предоставляет такую же визуализацию �
 
 👩‍💻 Можете попробовать загрузить[ свой корпус ](asoiaf.zip) в AntConc. Нужно:
 
+0. Скачать [AntConc](http://www.laurenceanthony.net/software.html)
+
 1. пойти в File => Open File(s):
 
 ![summary](pics/antconcscreen.png)
