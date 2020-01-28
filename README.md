@@ -59,7 +59,7 @@
 
 * К паре можно почитать: [Holmes D., Kardos J. Who Was the Author? An Introduction to Stylometry](https://www.researchgate.net/publication/240414953_Who_Was_the_Author_An_Introduction_to_Stylometry) — хороший вводный текст о стилометрии, на удивление точный и актуальный, несмотря на то, что ему уже немало лет.
 
-* Доклад на лекции: [Maciej Eder. Style-Markers in Authorship Attribution A Cross-Language Study of the Authorial Fingerprint](https://pdfs.semanticscholar.org/ab3c/366840e675da8e585b2e776fed9e90a2fbc5.pdf) — 1 человек
+* Доклад на лекции: [Maciej Eder. Style-Markers in Authorship Attribution A Cross-Language Study of the Authorial Fingerprint](https://pdfs.semanticscholar.org/ab3c/366840e675da8e585b2e776fed9e90a2fbc5.pdf) — Катя Тарасова
 
 ## Стилометрия: больше практики в stylo, продвинутые возможности, техническая консультация
 ##### 8 февраля
