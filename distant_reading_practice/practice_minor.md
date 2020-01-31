@@ -73,6 +73,7 @@ This variety in the stated definitions and aims of distant reading is characteri
 * [Преступление и наказание](https://voyant-tools.org/?corpus=7a14151684244d604e29fed45c15ddee)
 
 👩‍💻 Можете попробовать загрузить свой корпус. Например, [такой](asoiaf.zip)
+UPD: [вот он](https://voyant-tools.org/?corpus=f39de740afb7c4425eaebc8f986c0d7b) загруженный
 
 ### Полезный факт: Voyant Tools можно запускать и локально
 
