@@ -3,11 +3,11 @@
 Часть 1, январь-март 2020
 
 ## Введение
-##### 11 января
+Дата:  11 января
 [Вводная презентация](https://danilsko.github.io/slides/dhminor/intro.html)
 
 ## Культуромика и Cultural Analytics: исследования культуры в эпоху Big Data
-##### 18 января
+Дата:  18 января
 
 [Презентация](presentations/CultutralAnalyticsAndCulturomics.pdf)
 
@@ -36,7 +36,7 @@
 
 
 ## Distant Reading ("Дальнее чтение") и корпусные методы в филологии
-##### 25 января
+Дата:  25 января
 
 [Презентация Франка Фишера](https://lehkost.github.io/slides/2020-01-25-dh-lecture/index.html)
 
@@ -55,7 +55,7 @@
 * Ryan Heuser, Long Le-Khac. [A Quantitative Literary History of 2,958 Nineteenth-Century British Novels: The Semantic Cohort Method](https://litlab.stanford.edu/LiteraryLabPamphlet4.pdf) — Анна Смирнова + Мария Долгодворова в 12:10 и Злата Шкутько + Григорий Кузнецов в 13:40.
 
 ## Количественные методы определения авторства и стилометрия: почему это работает и к чему можно применить (лекция, начало практики в stylo)
-##### 1 февраля
+Дата:  1 февраля
 
 [Презентация: стилометрия](https://slides.com/danilsko/stylometry_minor_2019)
 
@@ -64,19 +64,23 @@
 * Доклад на лекции: [Maciej Eder. Style-Markers in Authorship Attribution A Cross-Language Study of the Authorial Fingerprint](https://pdfs.semanticscholar.org/ab3c/366840e675da8e585b2e776fed9e90a2fbc5.pdf) — Катя Тарасова
 
 ## Стилометрия: больше практики в stylo, продвинутые возможности, техническая консультация
-##### 8 февраля
+Дата:  8 февраля
+
+[Вторая часть презентации по стилометрии](https://slides.com/danilsko/minor_stylometry_continues)
+
+[Практика](https://github.com/dhhse/dhcourse/blob/master/stylometry/stylometry_minor.md)
 
 ## Ваши презентации групповых исследований №1
-##### 15 февраля
+Дата:  15 февраля
 
 ## Сетевой анализ (лекция, начало практики в Gephi)
-##### 22 февраля
+Дата:  22 февраля
 
 ## Сетевой анализ: продолжение практики в Gephi, продвинутые возможности, щепотка программирования (для желающих)
-##### 29 февраля
+Дата:  29 февраля
 
 ## 	Коворкинг и техническая консультация
-##### 14 марта
+Дата:  14 марта
 
 ## Ваши презентации групповых исследований №2
-##### 21 марта
+Дата:  21 марта
