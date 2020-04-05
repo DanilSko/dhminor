@@ -1,6 +1,24 @@
 # Курс "Цифровые методы в гуманитарных науках"
 
-Часть 1, январь-март 2020
+Часть 2, апрель-июнь 2020
+
+## XML как способ хранения данных в привязке к тексту; стандарт TEI
+Дата: 11 апреля
+
+[Презентация](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit?usp=sharing)
+
+Видео про TEI/XML (А. Бонч-Осмоловская, Д.Скоринкин):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cc3kMcfrbPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Uqp8oA5PKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## XML и TEI: способы работы с ними (практика)
+
+[Презентация 2](https://docs.google.com/presentation/d/1SpxXLPXHedEEwFk9OivDim6NiDV84Q6G1EIgZa1LQgk/edit?usp=sharing)
+
+
+# Часть 1, январь-март 2020
 
 ## Введение
 Дата:  11 января
