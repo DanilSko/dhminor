@@ -22,9 +22,10 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aF2GP4lyeHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Презентация 1](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit?usp=sharing)
+<!-- [Презентация 1](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit?usp=sharing)
 
 [Презентация 2](https://docs.google.com/presentation/d/1SpxXLPXHedEEwFk9OivDim6NiDV84Q6G1EIgZa1LQgk/edit?usp=sharing)
+--> 
 
 <!--
 ## XML и TEI: способы работы с ними (практика)
