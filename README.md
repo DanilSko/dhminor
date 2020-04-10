@@ -44,14 +44,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-## Геоинформационные системы и Digital Humanities
+## Геоинформационные системы (GIS) и Digital Humanities
 
 * Тут будут материалы и презентации
 
-## Конец второй части
+
+## Проект 2: GIS для DH
+
+## Конец второй части — июнь 2020
 
 
-Часть 1, январь-март 2020 (до коронавируса)
+# Часть 1, январь-март 2020 (до коронавируса)
 
 ## Введение
 Дата:  11 января
