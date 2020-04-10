@@ -7,8 +7,9 @@
 ## Цифровое сохранение культурного наследия. XML как способ хранения данных в привязке к тексту; стандарт TEI 
 Дата: 11 апреля
 
-[Презентация](https://docs.google.com/presentation/d/1-YP11JzQOuw4f37nTxZHi3bYJidiIYFD8cQDx7gXSP4/edit?usp=sharing)
-[Форма загрузки файлов](https://forms.gle/rkD9ZkLfHEYhucsZ7)
+* [Презентация](https://docs.google.com/presentation/d/1-YP11JzQOuw4f37nTxZHi3bYJidiIYFD8cQDx7gXSP4/edit?usp=sharing)
+
+* [Форма загрузки файлов](https://forms.gle/rkD9ZkLfHEYhucsZ7)
 
 Видео про TEI/XML (А. Бонч-Осмоловская, Д.Скоринкин):
 
