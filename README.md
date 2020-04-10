@@ -2,23 +2,51 @@
 
 Часть 2, апрель-июнь 2020
 
-## XML как способ хранения данных в привязке к тексту; стандарт TEI
+**Важно**: Очные встречи происходят в нашей [команде в MS Teams](https://teams.microsoft.com/l/team/19%3ab6df0f3704804a9d93ad7e22b4af8d55%40thread.tacv2/conversations?groupId=546a71fe-c569-4ac9-98df-5e197dc235eb&tenantId=21f26c24-0793-4b07-a73d-563cd2ec235f), регулярная коммуникация — в [телеграм-чатике](https://tele.click/joinchat/Cj8q6xPxeHdIZEFJgVGl7g)
+
+## XML как способ хранения данных в привязке к тексту; стандарт TEI 
 Дата: 11 апреля
 
-[Презентация](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit?usp=sharing)
-
 Видео про TEI/XML (А. Бонч-Осмоловская, Д.Скоринкин):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sFTSzs-xVyw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKzz-SEW-n0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cc3kMcfrbPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Uqp8oA5PKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## XML и TEI: способы работы с ними (практика)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FYDlKE9r3vM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aF2GP4lyeHs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Презентация 1](https://docs.google.com/presentation/d/1mYpnBKQ1eP9Txn-YlOaz2KhUOoVM9IcFu-aPzALz860/edit?usp=sharing)
 
 [Презентация 2](https://docs.google.com/presentation/d/1SpxXLPXHedEEwFk9OivDim6NiDV84Q6G1EIgZa1LQgk/edit?usp=sharing)
 
+<!--
+## XML и TEI: способы работы с ними (практика)
 
-# Часть 1, январь-март 2020
+Дата: 18 апреля
+-->
+
+## Компьютерный анализ тематики текста: ключевые слова, тематическое моделирование
+
+Видео (Д.Скоринкин)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Геоинформационные системы и Digital Humanities
+
+* Тут будут материалы и презентации
+
+## Конец
+
+
+Часть 1, январь-март 2020
 
 ## Введение
 Дата:  11 января
