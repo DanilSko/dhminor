@@ -9,7 +9,7 @@
 
 * [Презентация](https://docs.google.com/presentation/d/1-YP11JzQOuw4f37nTxZHi3bYJidiIYFD8cQDx7gXSP4/edit?usp=sharing)
 
-* [Форма загрузки файлов](https://forms.gle/rkD9ZkLfHEYhucsZ7)
+* [Форма загрузки файлов для практики](https://forms.gle/rkD9ZkLfHEYhucsZ7)
 
 Видео про TEI/XML (А. Бонч-Осмоловская, Д.Скоринкин):
 
@@ -35,6 +35,7 @@
 
 Дата: 18 апреля
 
+[Презентация](https://drive.google.com/file/d/1bJziofJHlDPZlmTHo9mM7DyN8tJeqKd9/view?usp=sharing)
 
 ## Проект 1: микро-издание в TEI/XML
 
