@@ -41,12 +41,34 @@
 
 Дата: 25 апреля
 
+[Таблица с результатами]()
 
 ## Компьютерный анализ тематики текста: ключевые слова, тематическое моделирование
 
-Видео (Д.Скоринкин)
+Введение:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Тетрадка: ключевые слова в Python](https://github.com/dhhse/dhcourse/blob/gh-pages/keywords/Keywords_DH_April_2020.ipynb)
+
+Тематическое моделирование:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Pj8eMukaWh8?start=66" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[**Слайды с пары**](https://drive.google.com/open?id=1tA12GdVc75FMn4zlxgzb0uvkXpOHJi5F)
+
+Примеры из DH:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JpKLjiFhXYw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jgNYkeDJ45o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Как делать ТМ в Mallet:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yuEfqgNIz9E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXI0_YUAtow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Геоинформационные системы (GIS) и Digital Humanities
