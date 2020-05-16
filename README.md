@@ -171,5 +171,6 @@
 ## Ваши презентации групповых исследований №2
 Дата:  21 марта
 
-Видео докладов:
-<iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c029114c-e506-4026-ab6b-41140b818524?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+<!--Видео докладов:
+ <iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/c029114c-e506-4026-ab6b-41140b818524?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
+-->
