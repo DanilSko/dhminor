@@ -41,11 +41,11 @@
 
 Дата: 25 апреля
 
-[Таблица с результатами]()
+[Таблица с результатами](https://docs.google.com/spreadsheets/d/102Ljw_cXm_iooifpug_64TmZLiwA_CmzGG_TdOWYH4c/edit?usp=sharing)
 
 ## Компьютерный анализ тематики текста: ключевые слова, тематическое моделирование 
 
-Введение: [](#thematic)
+[Введение:](#thematic)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
