@@ -45,7 +45,7 @@
 
 ## Компьютерный анализ тематики текста: ключевые слова, тематическое моделирование 
 
-[Введение:](#thematic)
+Введение:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/718Bl4m2088" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
