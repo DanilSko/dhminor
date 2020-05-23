@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Вышечка"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              37.66297817230224,
+              55.76665164941943
+            ],
+            [
+              37.66409397125244,
+              55.767037930012975
+            ],
+            [
+              37.66392230987549,
+              55.768100181910995
+            ],
+            [
+              37.66297817230224,
+              55.768100181910995
+            ],
+            [
+              37.662506103515625,
+              55.76698964514811
+            ],
+            [
+              37.66297817230224,
+              55.76665164941943
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Кофейня Coffebrain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.66430854797363,
+          55.766675792068646
+        ]
+      }
+    }
+  ]
+}
